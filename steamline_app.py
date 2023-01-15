@@ -1,7 +1,8 @@
 import streamlit
-streamlit.title('i am learning snowflake and streamlit')
+streamlit.title('My Parents' New Healthy Diner.')
 
-streamlit.header('starting badge 2')
-streamlit.text('Pongal festival')
-streamlit.text('Mattu pongal')
-streamlit.text('Canum pongal')
+streamlit.header('Break fast menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('kale, Spinack & rocket smoothie')
+streamlit.text('Hard boiled free range egg')
+
